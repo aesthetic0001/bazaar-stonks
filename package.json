@@ -1,0 +1,13 @@
+{
+  "name": "bzstonks",
+  "author": "aesthetic0001",
+  "description": "visualize bazaar data over time",
+  "homepage": "https://github.com/aesthetic0001/bzstonks-release",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "firebase": "^8.6.7",
+    "string-similarity": "^4.0.4"
+  }
+}
