@@ -1,6 +1,6 @@
 # bz-stonks
 
+discord bot that collects data from hypixel API and does stuff with it
 
-skyblock stuff woohoo
-
-more info coming soon:tm:
+# setup:
+configure config.json
